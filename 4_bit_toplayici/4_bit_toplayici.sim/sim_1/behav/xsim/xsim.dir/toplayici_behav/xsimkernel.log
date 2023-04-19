@@ -1,0 +1,7 @@
+Running: xsim.dir/toplayici_behav/xsimk.exe -simmode gui -wdb toplayici_behav.wdb -simrunnum 0 -socket 60242
+Design successfully loaded
+Design Loading Memory Usage: 6440 KB (Peak: 6440 KB)
+Design Loading CPU Usage: 62 ms
+Simulation completed
+Simulation Memory Usage: 7024 KB (Peak: 7024 KB)
+Simulation CPU Usage: 93 ms
